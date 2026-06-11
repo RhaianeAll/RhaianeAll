@@ -1,7 +1,7 @@
 # Olá, meu nome é Rhaiane Alena Allebrandt! 👋
 Sou estudante de Ciência da Computação na Universidade Federal da Fronteira Sul em Chapecó/SC e sou apaixonada por desenvolvimento de software e design digital. Aqui você irá encontrar divesos tipos de projetos interessantes criados de forma pessoal, em sala de aula, ou em cursos que estou realizando ou já tenha realizado.
 
-<img src="https://tenor.com/pt-BR/view/animate-background-technology-gif-4142333308159596986.gif" width="200" align="right" alt="GatinhoBranco">
+<img src="https://tenor.com/pt-BR/view/animate-background-technology-gif-4142333308159596986.gif" width="400" align="right" alt="GatinhoBranco">
 
 Sinta-se à vontade! Bem vindo(a) ao meu perfi!
 
